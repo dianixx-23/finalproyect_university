@@ -1,0 +1,6 @@
+Lisa,Casas,1777888,1,18
+Maria,Barrios,1222444,2,19
+Mario,Rios,1333555,3,18
+Andres,Rojas,1555888,4,20
+Ana,Paez,1444222,5,21
+Camilo,Cuesta,1666777,6,19
